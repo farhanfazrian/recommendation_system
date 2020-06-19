@@ -1,0 +1,12 @@
+{
+    "name": "farhan/sistemrekomendasi",
+    "authors": [
+        {
+            "name": "farhan",
+            "email": "7314017@student.unpar.ac.id"
+        }
+    ],
+    "require": {
+    	"bcosca/fatfree" : "3.6.2"
+    }
+}
